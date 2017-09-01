@@ -1,0 +1,7 @@
+@import url('base.css');
+li{
+	height: 272px;
+	border: 2px solid #808080;
+	background: yellow;
+
+}
